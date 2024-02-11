@@ -34,10 +34,19 @@
     <Content Include="Controllers\problems_controllers.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="Controllers\user_controllers.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="middleware\validation.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="middleware\verifytoken.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="models\problem_model.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="models\user_model.js">
       <SubType>Code</SubType>
     </Content>
     <Content Include="routes\index.js" />
